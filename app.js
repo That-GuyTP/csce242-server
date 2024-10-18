@@ -5,9 +5,9 @@ http
   .createServer(function (req, res) {
     res.writeHead(200, { "Content-Type": "text/html" });
     res.end("Hello World!");
+    res.end("Hello Thomas!");
   })
   .listen(port);
 
   //node app.js to launch on local
   //ctrl + c to close it down.
-  
