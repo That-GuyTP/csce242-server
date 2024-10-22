@@ -7,9 +7,10 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.21.1",
     "packagename": "^2.0.1"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
